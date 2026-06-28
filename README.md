@@ -1,29 +1,12 @@
 # MenuMalin
 
-MenuMalin est un logiciel familial conçu pour planifier facilement les menus de la semaine et générer des listes de courses.
+MenuMalin est un logiciel Windows prepare dans l'atelier numerique.
 
-## À quoi ça sert ?
+## Version actuelle
 
-MenuMalin aide à organiser les repas du quotidien sans perdre de temps.
+1.27.48
 
-Il permet de préparer à l'avance :
-- les menus de la semaine,
-- les repas du midi et du soir,
-- les idées de plats,
-- les listes de courses.
+## Aide
 
-## Fonctionnalités prévues
-
-- Planification des menus hebdomadaires
-- Gestion des repas midi et soir
-- Création automatique de listes de courses
-- Impression des menus
-- Interface simple et familiale
-
-## Objectif
-
-L'objectif de MenuMalin est de simplifier l'organisation des repas, éviter les oublis pendant les courses et gagner du temps chaque semaine.
-
-## Auteur
-
-Créé par Philippe Bonnet.
+Forum officiel :
+https://ateliernumerique.superforum.fr/
